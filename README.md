@@ -1,5 +1,6 @@
-# Responsive Login SignIn SignUp
+# Responsive  SignIn SignUp
+ Responsive SignIn SignUp form using HTML, CSS and Javascript  , It Changes with a click if you want to Sign-In or Sign-Up, when changing it shows a quite elegant animation.  
 
-Nice responsive login and registration form using Html, Css and JavaScript. Change with a click if you want to resgitrarte or log in, when changing it shows a quite elegant animation.
+
 
 
